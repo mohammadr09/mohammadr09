@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Mohammad 👋
 
-<!--
-**mohammadr09/mohammadr09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a web developer passionate about building projects with Next.js, Firebase, and TypeScript.  
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+![React](https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-15.3.6-black?style=for-the-badge&logo=next.js)
+![Firebase](https://img.shields.io/badge/Firebase-11.10.0-orange?style=for-the-badge&logo=firebase)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+- [Internyl](https://internyl.org) – Internship Tracker built with NextJS & Firebase, streamlined with AI
+- [Bookstore](https://github.com/mohammadr09/maktabah-ibn-taymiyyah) – E-commerce site with Next.js and Firebase.
+
+### 📫 Contact
+- Email: mohammaddev27@gmail.com
+- LinkedIn: [linkedin.com/in/mrahman27](https://linkedin.com/in/mrahman27)
