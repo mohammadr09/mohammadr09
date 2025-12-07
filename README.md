@@ -1,6 +1,6 @@
 # Hi, I'm Mohammad 👋
 
-I'm a web developer passionate about building projects with Next.js, Firebase, and TypeScript.  
+I'm a web developer passionate about building projects with Next.js, Firebase, and TypeScript. I am also familiar with Java, Python, and C++.
 
 ### 🛠 Tech Stack
 ![React](https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react)
