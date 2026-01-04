@@ -9,7 +9,7 @@ I'm a web developer passionate about building projects with Next.js, Firebase, a
 
 ### 🚀 Projects
 - [Internyl](https://internyl.org) – Internship Tracker built with NextJS & Firebase, streamlined with AI
-- [Bookstore](https://github.com/mohammadr09/maktabah-ibn-taymiyyah) – E-commerce site with Next.js and Firebase.
+- [Bookstore](https://github.com/mohammadr09/maktabah-ibn-taymiyyah) – E-commerce site built with Next.js, Tailwind, and Firestore. Stripe and Shippo integrated to manage payments and dynamically calculate shipping rates.
 
 ### 📫 Contact
 - Email: mohammaddev27@gmail.com
