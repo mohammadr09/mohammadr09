@@ -12,5 +12,5 @@ I'm a web developer passionate about building projects with Next.js, Firebase, a
 - [Bookstore](https://github.com/mohammadr09/maktabah-ibn-taymiyyah) – E-commerce site built with Next.js, Tailwind, and Firestore. Stripe and Shippo integrated to manage payments and dynamically calculate shipping rates.
 
 ### 📫 Contact
-- Email: mohammaddev27@gmail.com
+- Email: mohammadnyc96@gmail.com
 - LinkedIn: [linkedin.com/in/mrahman27](https://linkedin.com/in/mrahman27)
