@@ -1,72 +1,16 @@
-# Mohammad Rahman
+# Hi, I'm Mohammad 👋
 
-Full-stack developer focused on building modern web applications with scalable backends, clean UI/UX, and real-world functionality.
+I'm a web developer passionate about building projects with Next.js, Firebase, and TypeScript. I am also familiar with Java, Python, and C++.
 
-I primarily work with **Next.js, TypeScript, Firebase, and Tailwind CSS**, and I enjoy turning ambitious ideas into polished products. I also have experience with Java, Python, and C++ through robotics, backend systems, and software engineering projects.
-
-Currently expanding into backend architecture, systems design, and lower-level programming.
-
----
-
-## Tech Stack
-
-### Frontend
+### 🛠 Tech Stack
 ![React](https://img.shields.io/badge/React-18-blue?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css)
+![Next.js](https://img.shields.io/badge/Next.js-15.3.6-black?style=for-the-badge&logo=next.js)
+![Firebase](https://img.shields.io/badge/Firebase-11.10.0-orange?style=for-the-badge&logo=firebase)
 
-### Backend & Database
-![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase)
-![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase)
+### 🚀 Projects
+- [Internyl](https://internyl.org) – Internship Tracker built with NextJS & Firebase, streamlined with AI
+- [Bookstore](https://github.com/mohammadr09/maktabah-ibn-taymiyyah) – E-commerce site built with Next.js, Tailwind, and Firestore. Stripe and Shippo integrated to manage payments and dynamically calculate shipping rates.
 
-### Languages
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-
----
-
-## Featured Projects
-
-### Internyl
-🔗 https://internyl.org
-
-AI-powered internship tracking platform built with Next.js and Firebase.
-
-Features include:
-- AI-streamlined internship provider
-- Authentication & protected user-specific dashboards
-- Real-time Firestore integration
-- Responsive modern UI
-- The world's first internship provider-- built by students, for students.
-
----
-
-### Maktabah Ibn Taymiyyah
-🔗 https://github.com/mohammadr09/maktabah-ibn-taymiyyah
-
-Full-stack e-commerce bookstore built with Next.js, Tailwind, Firestore, Stripe, and Shippo.
-
-Features include:
-- Secure Stripe checkout
-- Real-time shipping rate calculation
-- Firebase authentication
-
----
-
-## Currently Exploring
-
-- Physics/engineering-centered programming
-- Scalable application architecture
-- Payment systems & backend workflows
-- AI-enhanced web experiences
-
----
-
-## Contact
-
-📧 mohammadnyc96@gmail.com
-
-💼 LinkedIn  
-https://linkedin.com/in/mrahman27
+### 📫 Contact
+- Email: mohammadnyc96@gmail.com
+- LinkedIn: [linkedin.com/in/mrahman27](https://linkedin.com/in/mrahman27)
